@@ -39,4 +39,4 @@ yarn-error.*
 app-example
 
 .env.local
-.env
+
